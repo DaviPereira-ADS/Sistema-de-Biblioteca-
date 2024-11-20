@@ -32,7 +32,7 @@ O projeto segue uma estrutura organizada em pacotes para separar responsabilidad
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/usuario/sistema-biblioteca.git
+   git clone https://github.com/DaviPereiraL/Sistema-de-Biblioteca-.git
    ```
 2. **Compile o código**:
 
